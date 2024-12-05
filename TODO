@@ -9,3 +9,5 @@ TODO
 	Ensure that the TUI scales to the terminal size.
 	Fix -Wformat-security warning during compilation. 
 	Organize keybinding switch cases.
+	Fix buffer overflow issue when saving. 
+	Fix TUI changing to gray sometimes when cycling colors
