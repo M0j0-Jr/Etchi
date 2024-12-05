@@ -1,7 +1,11 @@
 TODO
 
-Add undo functionality
-Clean up code
-Add more comments
-Prevent changes from being lost when opening license or help page
-Make README file
+	Add undo functionality.
+	Clean up code.
+	Add more comments.
+	Prevent changes from being lost when opening license or help page.
+	Make README file.
+	Add ANSI character functionality.
+	Ensure that the TUI scales to the terminal size.
+	Fix -Wformat-security warning during compilation. 
+	Organize keybinding switch cases.

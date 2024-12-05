@@ -1,0 +1,14 @@
+12/5/24, Miles Jarvis/M0J0-Jr
+
+    Added more comments.
+    Slightly adjusted exit code to exit the loop first before exiting the program.
+    Slightly adjusted clear code to set the chosen color back to white on black when clearing.
+    Fixed indentation and attempted to make it more consistent.
+    Removed some redundant comments.
+    Removed some redundant libraries.
+    Removed some redundant variables.
+    Fixed a bug regarding turning off eraser mode changing brush appearance to '@' instead of '#'.
+    Rearranged some parts of the code.
+    Fixed a bug where the key for cycling backwards the brush appearance was o, despite it being listed in the help page as being P.
+    Tweaked spacing a bit.
+    Adjusted licensing info at the top of main.c to be a bit more readable.
