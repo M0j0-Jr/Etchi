@@ -11,3 +11,4 @@ TODO
 	Organize keybinding switch cases.
 	Fix buffer overflow issue when saving. 
 	Fix TUI changing to gray sometimes when cycling colors
+	Fix weird identation when pushing to Github
